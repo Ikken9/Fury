@@ -1,0 +1,2 @@
+# fury
+Discord Music Bot
